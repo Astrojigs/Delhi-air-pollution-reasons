@@ -66,4 +66,8 @@ The time is perfect to harvest the crops in the month of November to December. O
 
 Using wind and terrain data we can manage to find the direction where the pollution can go.
 
-![terrain and wind data in the month of November]()
+![terrain and wind data in the month of November](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/terrain%20with%20wind%20data%20in%20Novemeber.png)
+
+From the above visualization we can see that the direction of wind is going towards the east from west. This takes all the pollution along with it.
+
+In order to provide more evidence for this, I used a simple query to extract pm2.5 particle concentration during that time. it turns out that the QGIS analysis and visualization we did earlier matches with the amount of increase in pm2.5 particles in the air during the end of the year in Delhi.
