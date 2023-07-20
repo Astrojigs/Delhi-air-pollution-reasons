@@ -71,3 +71,7 @@ Using wind and terrain data we can manage to find the direction where the pollut
 From the above visualization we can see that the direction of wind is going towards the east from west. This takes all the pollution along with it.
 
 In order to provide more evidence for this, I used a simple query to extract pm2.5 particle concentration during that time. it turns out that the QGIS analysis and visualization we did earlier matches with the amount of increase in pm2.5 particles in the air during the end of the year in Delhi.
+
+![pm2.5 pollutant concentration in Delhi](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/pm25history%20in%20delhi.png)
+
+The top rows are with high concentration of pm2.4 pollutants. This matches with the pollutants thrown out due to stubble burning in Punjab and Haryana.
