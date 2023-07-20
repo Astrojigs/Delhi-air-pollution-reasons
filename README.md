@@ -44,3 +44,8 @@ st_distance(st_transform(ST_GEOMFromText('POINT(77.1890 28.5120)', 4326), 7755),
 Since fire can come in all forms of shapes and sizes. It is best to take into account the intensity of these fires. Higher intensity implies more pollution in nearby region.
 
 ![Graduated symbology fire data](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/graduated%20symbology%20fire%20data%202019.png)
+
+Using this we can identify key positions where fire is more prominent. Since the fire data available is multiple years in them,
+We can use temporal analysis using QGIS.
+
+### Using Temporal Analysis:
