@@ -74,4 +74,4 @@ In order to provide more evidence for this, I used a simple query to extract pm2
 
 ![pm2.5 pollutant concentration in Delhi](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/pm25history%20in%20delhi.png)
 
-The top rows are with high concentration of pm2.4 pollutants. This matches with the pollutants thrown out due to stubble burning in Punjab and Haryana.
+The top rows are with high concentration of pm2.5 pollutants. This matches with the pollutants thrown out due to stubble burning in Punjab and Haryana.
