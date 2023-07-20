@@ -20,4 +20,4 @@ Finding parameters which are the main contributors to cause a rise in Delhi air 
 
 ## Visualizing Fire Data:
 Using GIS software like QGIS we can plot out the fire data from 2019.
-[]()
+![Fire data](https://github.com/Astrojigs/Delhi-air-pollution-reasons/tree/main/Photos)
