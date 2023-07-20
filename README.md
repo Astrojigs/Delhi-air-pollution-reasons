@@ -22,3 +22,17 @@ Finding parameters which are the main contributors to cause a rise in Delhi air 
 Using GIS software like QGIS we can plot out the fire data from 2019.
 
 ![Fire data](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/All%20Fire%20data%20points.png)
+
+Each red marker indicates an incident involving fire has taken place.
+
+### Creating a view using SQL:
+plotting points around Delhi within a radius of 500 kilometers.
+
+```
+drop view if exists fire_data_2019_view;
+create or replace view fire_data_2019_view;
+select ogc_field, wkb_geometry, latitude, longitude, brightness, acq_date
+from fire_data_2019 view where
+st_distance(st_transform(ST_GEOMFromText('POINT(77.1890 28.5120)', 4326), 7755),
+            st_transform(wkb_geometry,7755)) < 500*1000
+```
