@@ -57,3 +57,13 @@ We can use temporal analysis using QGIS to view only 1 slice of time period at a
 |August|September|November|
 |--|--|--|
 |![august slice](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/Temporal%20slice%20august.png)|![Sept Slice](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/Temporal%20slice%20september.png)|![Nov Slice](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/Temporal%20slice%20november.png)|
+
+The visibility of fire increases as we progress through the months from August to December.
+
+The time is perfect to harvest the crops in the month of November to December. Once the process of harvesting is complete, farmers use the same land to grow new crops. This can quickly be done by burning stubbles (what's left of the crop after harvesting). There is an increase in stubble burning during the end of the year. Hence we see more fire incidents taking place during that time.
+
+## So where does the excess smoke and pollution go?
+
+Using wind and terrain data we can manage to find the direction where the pollution can go.
+
+![terrain and wind data in the month of November]()
