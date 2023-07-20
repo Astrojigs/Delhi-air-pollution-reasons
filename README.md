@@ -45,7 +45,11 @@ Since fire can come in all forms of shapes and sizes. It is best to take into ac
 
 ![Graduated symbology fire data](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/graduated%20symbology%20fire%20data%202019.png)
 
-Using this we can identify key positions where fire is more prominent. Since the fire data available is multiple years in them,
-We can use temporal analysis using QGIS.
+Using this we can identify key positions where fire is more prominent. Since the fire data available is for multiple years,
+We can use temporal analysis using QGIS to view only 1 slice of time period at a time.
 
 ### Using Temporal Analysis:
+
+![Temporal analysis 1](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/Temporal%20controller%201.png)
+
+|Image1|image 2|image3|
