@@ -36,3 +36,11 @@ from fire_data_2019 view where
 st_distance(st_transform(ST_GEOMFromText('POINT(77.1890 28.5120)', 4326), 7755),
             st_transform(wkb_geometry,7755)) < 500*1000
 ```
+*Output*
+
+![Fire data 2019 view](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/fire%20data%202019%20view.png)
+
+### Identifying Types of Fire using gradients:
+Since fire can come in all forms of shapes and sizes. It is best to take into account the intensity of these fires. Higher intensity implies more pollution in nearby region.
+
+![Graduated symbology fire data](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/graduated%20symbology%20fire%20data%202019.png)
