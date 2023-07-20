@@ -51,6 +51,6 @@ We can use temporal analysis using QGIS to view only 1 slice of time period at a
 ### Using Temporal Analysis:
 
 ![Temporal analysis 1](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/Temporal%20controller%201.png)
-||||
+|August|September|November|
 |--|--|--|
 |Image1|image 2|image3|
