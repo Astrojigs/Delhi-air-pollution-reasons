@@ -12,7 +12,7 @@ Finding parameters which are the main contributors to cause a rise in Delhi air 
 
 # Analysis:
 ## Data Required:
-*Give links to all the Data*
+*Links to data given in txt format*
 - Fire data
 - Climate, wind Data
 - Air quality index and particle pollutants measurements Data
