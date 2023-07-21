@@ -1,0 +1,28 @@
+Link to all the data used:
+
+###### Main Article ##########
+https://qz.com/india/2093255/why-is-delhis-air-quality-so-bad/
+
+
+#######################################
+1. Fire data:
+
+https://firms.modaps.eosdis.nasa.gov/map/
+
+#######################################
+2. Wind data:
+
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
+
+How to access the data:
+https://www.youtube.com/watch?v=bzyB6sTNVfI&t=435s
+
+########################################
+3. Elevation
+
+https://www.diva-gis.org/gdata
+
+#######################################
+4. Delhi Pollution dataset 2019 (Alipur)
+
+https://www.kaggle.com/sakethramanujam/cpcb-air-quality-index-data-2019
